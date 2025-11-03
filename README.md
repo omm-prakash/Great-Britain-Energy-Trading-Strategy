@@ -31,7 +31,8 @@ This repository contains a trading strategy designed to capitalize on price disc
 1. Clone the repository:
    ```bash
    https://github.com/omm-prakash/Great-Britain-Energy-Trading-Strategy.git
-   cd Cobblestone-Energy-Task
+   cd Great-Britain-Energy-Trading-Strategy
+
   
 
 ### Usage
